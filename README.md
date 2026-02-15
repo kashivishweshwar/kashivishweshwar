@@ -1,6 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on building data engineering projects using Python, SQL, and AWS Cloud.<br><br>🤝 I’m looking to collaborate on cloud-based data pipeline and backend projects.<br><br>🛠 I’m looking for help with advanced AWS architecture and scalable data systems.<br><br>🌱 I’m currently learning SQL, Python for data engineering, and AWS services like EC2, S3, and IAM.<br><br>💬 Ask me about cloud fundamentals, data pipelines, and backend basics.<br><br>⚡ Fun fact: I’m passionate about tech and also love acting and performance arts.
+🔭 I’m currently building Cloud Data Engineering projects using Python, SQL, and AWS.
 
+🤝 I’m open to collaborating on scalable cloud and data infrastructure systems.
+
+🌱 I’m continuously improving my expertise in cloud architecture, data pipelines, and backend engineering.
+
+💬 Ask me about cloud systems, data engineering, and building reliable data workflows.
+
+⚡ I work in tech and actively pursue acting, modeling, and dance
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thevishwa.x) 
